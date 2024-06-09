@@ -9,3 +9,9 @@ nms官方地址 [node-media-server](https://github.com/illuspas/Node-Media-Serve
 # 播放流
 ## 常用客户端(iina, vlc, PotPlayer):
 ## 播放地址: http://192.168.31.147:8000/live/STREAM_NAME.flv
+
+```
+npm init -y
+npm i node-media-server
+node app.js
+```
