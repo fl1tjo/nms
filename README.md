@@ -1,3 +1,5 @@
+nms官方地址 [node-media-server](https://github.com/illuspas/Node-Media-Server "手机观看MKV视频不错的选择")。
+
 # node-media-server 本地直播简单配置
 
 # OBS设置
@@ -7,5 +9,3 @@
 # 播放流水
 ## 常用客户端(iina, vlc, PotPlayer):
 ## 播放地址: http://192.168.31.147:8000/live/STREAM_NAME.flv
-
-nms官方地址 [node-media-server](https://github.com/illuspas/Node-Media-Server "手机观看MKV视频不错的选择")。
